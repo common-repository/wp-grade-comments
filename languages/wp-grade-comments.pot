@@ -1,0 +1,106 @@
+# Copyright (C) 2023 Boone Gorges
+# This file is distributed under the same license as the WP Grade Comments plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Grade Comments 1.5.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wp-grade-comments\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-28T11:58:39-05:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: wp-grade-comments\n"
+
+#. Plugin Name of the plugin
+msgid "WP Grade Comments"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://openlab.citytech.cuny.edu"
+msgstr ""
+
+#. Description of the plugin
+msgid "Grades and private comments for WordPress blog posts. Built for the City Tech OpenLab."
+msgstr ""
+
+#. Author of the plugin
+msgid "Boone Gorges"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://boone.gorg.es"
+msgstr ""
+
+#: includes/admin.php:56
+#: includes/admin.php:125
+#: includes/admin.php:172
+msgid "Grade"
+msgstr ""
+
+#: includes/admin.php:182
+msgid "Privacy"
+msgstr ""
+
+#: includes/admin.php:210
+#: wp-grade-comments.php:94
+msgid "Grade:"
+msgstr ""
+
+#: includes/admin.php:233
+#: wp-grade-comments.php:62
+msgid "Make this comment private."
+msgstr ""
+
+#: includes/admin.php:234
+msgid "Private comments are visible only to instructors and to the post's author."
+msgstr ""
+
+#: includes/admin.php:307
+msgid "Please note: The WP Grade Comments plugin allows all Site Administrators to add, view, and edit private comments and grades."
+msgstr ""
+
+#: includes/admin.php:307
+#: includes/admin.php:352
+msgid "If you deactivate this plugin, any private comments made while the plugin was activated will become visible on your site to anyone who can view the site."
+msgstr ""
+
+#: includes/admin.php:308
+msgid "Dismiss"
+msgstr ""
+
+#: wp-grade-comments.php:71
+msgid "Add a grade."
+msgstr ""
+
+#: wp-grade-comments.php:98
+msgid "NOTE: Private response and grade will only be visible to instructors and the post's author."
+msgstr ""
+
+#: wp-grade-comments.php:173
+msgid "Grade (Private):"
+msgstr ""
+
+#: wp-grade-comments.php:174
+#: wp-grade-comments.php:207
+msgid "(show)"
+msgstr ""
+
+#: wp-grade-comments.php:176
+#: wp-grade-comments.php:209
+msgid "(hide)"
+msgstr ""
+
+#: wp-grade-comments.php:206
+msgid "Comment (Private):"
+msgstr ""
+
+#: wp-grade-comments.php:218
+msgid "NOTE: Private response and grade are visible only to instructors and to the post's author."
+msgstr ""
+
+#: wp-grade-comments.php:220
+msgid "NOTE: Private response is visible only to instructors and to the post's author."
+msgstr ""
